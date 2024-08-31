@@ -1,0 +1,15 @@
+h2{
+    padding-left: 60px;
+    padding-top: 50px;
+    font-size: 30px;
+}
+.l1 {
+    display:flex;
+    div{
+        
+        margin: 1rem;
+        background-color: blue;
+        padding: 1rem;
+       
+}
+
